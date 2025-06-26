@@ -1,5 +1,5 @@
 # my-journey
-My Journey as a Software Development Student at Gomycode
+# My Journey as a Software Development Student at Gomycode
 Embarking on the journey to become a software developer has been one of the most transformative experiences of my life, and studying at Gomycode has played a pivotal role in shaping my skills, mindset, and career aspirations. From the very first day, I knew that this path would challenge me, but it also promised immense growth and opportunities to turn my passion for technology into real-world solutions.
 
 When I joined Gomycode, I was eager but also aware of the steep learning curve ahead. The curriculum was intensive and hands-on, designed to equip students with practical skills rather than just theoretical knowledge. This approach immediately resonated with me because I believe that the best way to learn coding and software development is by doing. Throughout the program, I engaged in various projects that pushed me to apply what I learned in class to real problems, enhancing both my technical abilities and problem-solving skills.
